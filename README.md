@@ -1,12 +1,12 @@
 <div align="center">
 
-# Kortix – Open Source Platform to Build, Manage and Train AI Agents
+# Ludium – Open Source Platform to Build, Manage and Train AI Agents
 
 ![Kortix Screenshot](frontend/public/banner.png)
 
 **The complete platform for creating autonomous AI agents that work for you**
 
-Kortix is a comprehensive open source platform that empowers you to build, manage, and train sophisticated AI agents for any use case. Create powerful agents that act autonomously on your behalf, from general-purpose assistants to specialized automation tools.
+Ludium is a comprehensive open source platform that empowers you to build, manage, and train sophisticated AI agents for any use case. Create powerful agents that act autonomously on your behalf, from general-purpose assistants to specialized automation tools.
 
 [![License](https://img.shields.io/badge/License-Apache--2.0-blue)](./license)
 [![Discord Follow](https://dcbadge.limes.pink/api/server/Py6pCBUUPw?style=flat)](https://discord.gg/RvFhXUdZ9H)
@@ -26,13 +26,13 @@ Kortix is a comprehensive open source platform that empowers you to build, manag
 
 </div>
 
-## 🌟 What Makes Kortix Special
+## 🌟 What Makes Ludium Special
 
-### 🤖 Includes Suna – Flagship Generalist AI Worker
-Meet Suna, our showcase agent that demonstrates the full power of the Kortix platform. Through natural conversation, Suna handles research, data analysis, browser automation, file management, and complex workflows – showing you what's possible when you build with Kortix.
+### 🤖 Includes lood – Flagship Generalist AI Worker
+Meet lood, our showcase agent that demonstrates the full power of the Ludium platform. Through natural conversation, Suna handles research, data analysis, browser automation, file management, and complex workflows – showing you what's possible when you build with Kortix.
 
-### 🔧 Build Custom Suna-Type Agents
-Create your own specialized agents tailored to specific domains, workflows, or business needs. Whether you need agents for customer service, data processing, content creation, or industry-specific tasks, Kortix provides the infrastructure and tools to build, deploy, and scale them.
+### 🔧 Build Custom lood-Type Agents
+Create your own specialized agents tailored to specific domains, workflows, or business needs. Whether you need agents for customer service, data processing, content creation, or industry-specific tasks, Ludium provides the infrastructure and tools to build, deploy, and scale them.
 
 ### 🚀 Complete Platform Capabilities
 - **Browser Automation**: Navigate websites, extract data, fill forms, automate web workflows
@@ -54,9 +54,9 @@ Create your own specialized agents tailored to specific domains, workflows, or b
 
 ## 🎯 Agent Examples & Use Cases
 
-### Suna - Your Generalist AI Worker
+### lood - Your Generalist AI Worker
 
-Suna demonstrates the full capabilities of the Kortix platform as a versatile AI worker that can:
+Suna demonstrates the full capabilities of the Ludium platform as a versatile AI worker that can:
 
 **🔍 Research & Analysis**
 - Conduct comprehensive web research across multiple sources
